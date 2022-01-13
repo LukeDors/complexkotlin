@@ -76,6 +76,9 @@ enum class Philosopher {
     abstract fun signal(): Philosopher
 }
 
+// Seneca the Younger was a Roman Philosopher who is commonly accociated with the school of stoicism
+// Stoicism teaches that though wisdom and living a virtuous live, one can avoid inner turmoil and have peace of mind
+
 // create an class "Command" that can be used as a function (provide an "invoke()" function)
 // that takes a single parameter ("message" of type String)
 // primary constructor should take a String argument ("prompt")
